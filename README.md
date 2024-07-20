@@ -1,4 +1,3 @@
 # johndoe1117
 # Current projects:
-![main_interface2](https://github.com/user-attachments/assets/f8485f36-c301-4130-9817-25d2aef9dde0)
-
+![csv_manager](https://github.com/user-attachments/assets/25d79b67-33df-4dbc-ae44-864959e554b7)
