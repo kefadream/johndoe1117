@@ -2,9 +2,8 @@
 
 ## Current Projects
 
-### CSV Manager
+### CSV Management
 
-Voici un aperçu du projet CSV Manager :
-
-<img src="https://github.com/user-attachments/assets/25d79b67-33df-4dbc-ae44-864959e554b7" alt="csv_manager" width="300" height="200">
+Preview of CSV Management project :
+<img src="https://github.com/user-attachments/assets/ee378e35-8769-4d62-8ff7-ad6f76198c13" alt="csv_manager" width="300" height="200">
 
