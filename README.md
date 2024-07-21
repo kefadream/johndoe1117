@@ -1,5 +1,3 @@
-# johndoe1117
-
 ## Current Projects
 
 ### CSV Management
