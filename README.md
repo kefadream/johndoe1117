@@ -4,7 +4,9 @@
 
 Preview of Notes Management Project:
 #### Light Theme
-<img src="https://github.com/user-attachments/assets/6130a070-9d9a-43fa-bd58-6d72bda3109a" alt="Notes Management Light Theme" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/c17693cd-7e56-42bf-8504-a3371b88ad5b" alt="Notes Management Light Theme" width="300" height="200"> 
+
+
 
 #### Dark Theme
 <img src="https://github.com/user-attachments/assets/6130a070-9d9a-43fa-bd58-6d72bda3109a" alt="Notes Management Dark Theme" width="300" height="200">
